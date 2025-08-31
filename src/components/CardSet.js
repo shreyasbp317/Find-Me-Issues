@@ -165,6 +165,6 @@ const CardSet = ({
       )}
     </div>
   );
-};
+} ;
 
 export default CardSet;
